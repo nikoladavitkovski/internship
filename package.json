@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/nikoladavitkovski/internship/issues"
   },
-  "homepage": "https://github.com/nikoladavitkovski/internship#readme"
+  "homepage": "https://github.com/nikoladavitkovski/internship#readme",
+  "dependencies": {
+    "ci": "^2.2.0"
+  }
 }
