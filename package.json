@@ -1,5 +1,5 @@
 {
-  "name": "node.js",
+  "name": "dir",
   "version": "1.0.0",
   "description": "docker",
   "main": "init",
@@ -15,12 +15,13 @@
     "pass"
   ],
   "author": "ndavitkovski@yahoo.com",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/nikoladavitkovski/internship/issues"
   },
   "homepage": "https://github.com/nikoladavitkovski/internship#readme",
   "dependencies": {
     "ci": "^2.2.0"
-  }
+  },
+  "devDependencies": {}
 }
