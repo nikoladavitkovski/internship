@@ -1,0 +1,23 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "description": "docker",
+  "main": "init",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikoladavitkovski/internship.git"
+  },
+  "keywords": [
+    "nikola",
+    "pass"
+  ],
+  "author": "ndavitkovski@yahoo.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikoladavitkovski/internship/issues"
+  },
+  "homepage": "https://github.com/nikoladavitkovski/internship#readme"
+}
